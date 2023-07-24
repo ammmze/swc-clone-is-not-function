@@ -1,0 +1,16 @@
+{
+  "$schema": "http://json.schemastore.org/swcrc",
+  // these are the options used my project, but even removing them the issue is still present
+  // "jsc": {
+  //   "parser": {
+  //     "syntax": "typescript",
+  //     "tsx": true,
+  //   },
+  // },
+  // "env": {
+  //   "targets": ">0.5% and not ie 11",
+  // },
+  // "module": {
+  //   "type": "es6",
+  // },
+}
