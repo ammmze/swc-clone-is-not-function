@@ -9,7 +9,7 @@ switch (preset) {
 
   case '@swc/jest':
     module.exports = {
-      moduleNameMapper: {
+      transform: {
         '^.+\\.(t|j)sx?$': '@swc/jest',
       },
     };
